@@ -89,7 +89,7 @@ Once you have your selection of content ready, you can then start to work with P
 **Show Control :** Show or hide control arrow.
 
 ##Advanced Options
-![Style](style.jpg)
+![Style](advance.jpg)
 
 **Alternative Layout :** Use a different layout from the supplied module or overrides in the template.
 
